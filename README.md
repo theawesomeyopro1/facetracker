@@ -6,6 +6,6 @@
 
 ### Requirements:
 
-mediapipe
-pygame
-numpy
+- mediapipe
+- pygame
+- numpy
