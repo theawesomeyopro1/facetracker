@@ -1,2 +1,5 @@
-# facetracker
-face tracking script
+# Features:
+
+- Face detection
+- Creating cubes
+- Destroying cubes
